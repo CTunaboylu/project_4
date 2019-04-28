@@ -18,3 +18,5 @@ $ git help
 
 Sonrasında repo başlatmak ve buradaki herşeyi klonlamak için bu link: 
 https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
+
+klonlanacak link ( bu projenin github linki) https://github.com/CTunaboylu/project_4.git
