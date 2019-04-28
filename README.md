@@ -2,7 +2,8 @@ Git indirme linki
 https://git-scm.com/downloads
 
 Sonrasında terminali açıp bu commandleri girmen lazım : 
-John Doe yerine kendi usernamein ve mailin
+
+(John Doe yerine kendi usernamein ve mailin)
 git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
 
